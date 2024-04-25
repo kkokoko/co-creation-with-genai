@@ -77,14 +77,14 @@ AI 技術使用に関連する倫理的考慮を教育することで、未来�
 
 #### デロイト
 
-[Gen AI use cases by type and industry | Deloitte US](https://www2.deloitte.com/us/en/pages/consulting/articles/gen-ai-use-cases.html)
-
 - Text
 - Image
 - Audio
 - Video
 - Code
 - 3d/Specialized
+
+[Gen AI use cases by type and industry | Deloitte US](https://www2.deloitte.com/us/en/pages/consulting/articles/gen-ai-use-cases.html)
 
 #### IBM
 
@@ -306,7 +306,23 @@ https://www.kyoto-art.ac.jp/
 > [!NOTE]
 > 面接後のお礼メールを書いてみよう
 
-# 参考
+## その他
+
+### 3D モデル生成
+
+[DreamGaussian](https://dreamgaussian.github.io/)
+
+### 動画
+
+[Sora](https://openai.com/sora)
+[AI による動画編集の自動化 | Adobe](https://www.adobe.com/jp/products/premiere/ai-video-editing.html?clickref=1100lyr3nuoo&mv=affiliate&mv2=pz&as_camptype=&as_channel=affiliate&as_source=partnerize&as_campaign=skimlinks_phg)
+
+### コード
+
+[GitHub Copilot · Your AI pair programmer](https://github.com/features/copilot)
+[Cursor - The AI-first Code Editor](https://cursor.sh/)
+
+## 参考
 
 - [Gen AI use cases by type and industry | Deloitte US](https://www2.deloitte.com/us/en/pages/consulting/articles/gen-ai-use-cases.html)
 - [aws-samples/generative-ai-use-cases-jp: Generative AI を活用したビジネスユースケースのデモンストレーション](https://github.com/aws-samples/generative-ai-use-cases-jp)
