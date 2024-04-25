@@ -52,7 +52,11 @@ AI 技術使用に関連する倫理的考慮を教育することで、未来�
 
 [生成 AI はじめの一歩～生成 AI の入門的な使い方と注意点～ | 安心・安全なインターネット利用ガイド | 総務省](https://www.soumu.go.jp/use_the_internet_wisely/special/generativeai/)
 
-[file01.pdf](https://www.soumu.go.jp/use_the_internet_wisely/special/generativeai/data/file01.pdf)
+[生成 AI はじめの一歩](https://www.soumu.go.jp/use_the_internet_wisely/special/generativeai/data/file01.pdf)
+
+<!-- <img src="images/soumu.png" alt="soumu" style="zoom:22%;" /> -->
+
+![soumu](images/soumu.png)
 
 - テキスト生成
   - 文章の作成・要約
