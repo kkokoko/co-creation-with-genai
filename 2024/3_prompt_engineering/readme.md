@@ -96,6 +96,20 @@ AI 技術使用に関連する倫理的考慮を教育することで、未来�
 [生成 AI のユースケースと潜在的リスク : 問題点やデメリットはないのか？ | IBM ソリューション ブログ](https://www.ibm.com/blogs/solutions/jp-ja/exploring-generative-ai-to-maximize-experiences-decision-making-and-business-value/)
 [CEO のための生成 AI 活用ガイド - 総集編 | IBM](https://www.ibm.com/thought-leadership/institute-business-value/jp-ja/report/ceo-generative-ai-jp)
 
+### 生成 AI を組み込んだシステム
+
+#### RAG (Retrieval-Augmented Generation：検索拡張生成)
+
+Copilot 等は、検索機能と生成 AI（LLM）を組み合わせて RAG (Retrieval-Augmented Generation) と呼ばれる方法で実現しています。
+
+> 生成系 AI／LLM（大規模言語モデル）の RAG（Retrieval-Augmented Generation：検索拡張生成）とは、ChatGPT や Gemini に代表されるチャット AI に独自の情報源を付与する仕組みのことで、具体的には言語モデルによるテキスト生成に特定の知識や情報源（例えばナレッジベースなど）への検索を組み合わせることである。
+
+![rag](images/rag.png)
+
+[RAG（Retrieval-Augmented Generation：検索拡張生成）とは？：AI・機械学習の用語辞典 - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2403/13/news035.html)
+[RAG とは何ですか? - 検索拡張生成の説明 - AWS](https://aws.amazon.com/jp/what-is/retrieval-augmented-generation/)
+[Retrieval-Augmented Generation(RAG)とは？ | IBM ソリューション ブログ](https://www.ibm.com/blogs/solutions/jp-ja/retrieval-augmented-generation-rag/)
+
 ## 1-2 限目： 「授業」のユースケース (16:35-)
 
 > [!WARNING]
