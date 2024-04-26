@@ -201,7 +201,7 @@ https://www.kyoto-art.ac.jp/
 #### 画像の説明 (5 分)
 
 > [!NOTE]
-> 資料を要約してみよう
+> 画像を説明してもらおう
 
 - [Copilot](https://copilot.microsoft.com/)
 - [LLaVA](https://llava.hliu.cc/)
