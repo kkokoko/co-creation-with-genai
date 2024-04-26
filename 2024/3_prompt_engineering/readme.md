@@ -48,8 +48,8 @@ Meta 社のオープンソースLLM llama3が公開されたこと知ってま�
 2. なにそれおいしいの？
 ```
 
-[Meta Llama 3](https://llama.meta.com/llama3/)
-[HuggingChat](https://huggingface.co/chat/)
+- [Meta Llama 3](https://llama.meta.com/llama3/)
+- [HuggingChat](https://huggingface.co/chat/)
 
 ```
 Adobe のライセンス持ってる？
@@ -78,9 +78,9 @@ HTML/css触ったことある？
 
 ### 利用する生成 AI (5 分)
 
-[ChatGPT](https://chat.openai.com/)
-[Copilot](https://copilot.microsoft.com/)
-[Adobe Firefly](https://firefly.adobe.com/)
+- [ChatGPT](https://chat.openai.com/)
+- [Copilot](https://copilot.microsoft.com/)
+- [Adobe Firefly](https://firefly.adobe.com/)
 
 ### 生成 AI はどのように使われている？ (5 分)
 
@@ -99,9 +99,8 @@ HTML/css触ったことある？
 
 #### 総務省
 
-[生成 AI はじめの一歩～生成 AI の入門的な使い方と注意点～ | 安心・安全なインターネット利用ガイド | 総務省](https://www.soumu.go.jp/use_the_internet_wisely/special/generativeai/)
-
-[生成 AI はじめの一歩](https://www.soumu.go.jp/use_the_internet_wisely/special/generativeai/data/file01.pdf)
+- [生成 AI はじめの一歩～生成 AI の入門的な使い方と注意点～ | 安心・安全なインターネット利用ガイド | 総務省](https://www.soumu.go.jp/use_the_internet_wisely/special/generativeai/)
+- [生成 AI はじめの一歩](https://www.soumu.go.jp/use_the_internet_wisely/special/generativeai/data/file01.pdf)
 
 ![soumu](images/soumu.png)
 
@@ -113,9 +112,9 @@ HTML/css触ったことある？
 
 #### 文部科学省
 
-[生成 AI の利用について：文部科学省](https://www.mext.go.jp/a_menu/other/mext_02412.html)
-[初等中等教育段階における生成 AI の利用に関する暫定的なガイドライン](https://www.mext.go.jp/content/20230710-mxt_shuukyo02-000030823_003.pdf)
-[大学・高専における生成 AI の教学面の取扱いについて：文部科学省](https://www.mext.go.jp/b_menu/houdou/2023/mext_01260.html)
+- [生成 AI の利用について：文部科学省](https://www.mext.go.jp/a_menu/other/mext_02412.html)
+- [初等中等教育段階における生成 AI の利用に関する暫定的なガイドライン](https://www.mext.go.jp/content/20230710-mxt_shuukyo02-000030823_003.pdf)
+- [大学・高専における生成 AI の教学面の取扱いについて：文部科学省](https://www.mext.go.jp/b_menu/houdou/2023/mext_01260.html)
 
 #### デロイト
 
@@ -126,7 +125,7 @@ HTML/css触ったことある？
 - Code
 - 3d/Specialized
 
-[Gen AI use cases by type and industry | Deloitte US](https://www2.deloitte.com/us/en/pages/consulting/articles/gen-ai-use-cases.html)
+- [Gen AI use cases by type and industry | Deloitte US](https://www2.deloitte.com/us/en/pages/consulting/articles/gen-ai-use-cases.html)
 
 #### IBM
 
@@ -135,8 +134,8 @@ HTML/css触ったことある？
 - コンテンツ作成
 - コード作成
 
-[生成 AI のユースケースと潜在的リスク : 問題点やデメリットはないのか？ | IBM ソリューション ブログ](https://www.ibm.com/blogs/solutions/jp-ja/exploring-generative-ai-to-maximize-experiences-decision-making-and-business-value/)
-[CEO のための生成 AI 活用ガイド - 総集編 | IBM](https://www.ibm.com/thought-leadership/institute-business-value/jp-ja/report/ceo-generative-ai-jp)
+- [生成 AI のユースケースと潜在的リスク : 問題点やデメリットはないのか？ | IBM ソリューション ブログ](https://www.ibm.com/blogs/solutions/jp-ja/exploring-generative-ai-to-maximize-experiences-decision-making-and-business-value/)
+- [CEO のための生成 AI 活用ガイド - 総集編 | IBM](https://www.ibm.com/thought-leadership/institute-business-value/jp-ja/report/ceo-generative-ai-jp)
 
 ### 生成 AI を組み込んだシステム (5 分)
 
@@ -148,9 +147,9 @@ Copilot 等は、検索機能と生成 AI（LLM）を組み合わせて RAG (Ret
 
 ![rag](images/rag.png)
 
-[RAG（Retrieval-Augmented Generation：検索拡張生成）とは？：AI・機械学習の用語辞典 - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2403/13/news035.html)
-[RAG とは何ですか? - 検索拡張生成の説明 - AWS](https://aws.amazon.com/jp/what-is/retrieval-augmented-generation/)
-[Retrieval-Augmented Generation(RAG)とは？ | IBM ソリューション ブログ](https://www.ibm.com/blogs/solutions/jp-ja/retrieval-augmented-generation-rag/)
+- [RAG（Retrieval-Augmented Generation：検索拡張生成）とは？：AI・機械学習の用語辞典 - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2403/13/news035.html)
+- [RAG とは何ですか? - 検索拡張生成の説明 - AWS](https://aws.amazon.com/jp/what-is/retrieval-augmented-generation/)
+- [Retrieval-Augmented Generation(RAG)とは？ | IBM ソリューション ブログ](https://www.ibm.com/blogs/solutions/jp-ja/retrieval-augmented-generation-rag/)
 
 ## 1-2 限目： 「授業」のユースケース (16:35-)
 
@@ -174,18 +173,19 @@ Copilot 等は、検索機能と生成 AI（LLM）を組み合わせて RAG (Ret
 > 英語のサイトを翻訳してみよう
 
 例：
-[KYOTO UNIVERSITY OF THE ARTS](https://www.kyoto-art.ac.jp/en/)
-[Kyoto Travel Guide - What to do in Kyoto City](https://www.japan-guide.com/e/e2158.html)
-[OpenAI](https://openai.com/)
+
+- [KYOTO UNIVERSITY OF THE ARTS](https://www.kyoto-art.ac.jp/en/)
+- [Kyoto Travel Guide - What to do in Kyoto City](https://www.japan-guide.com/e/e2158.html)
+- [OpenAI](https://openai.com/)
 
 #### 資料の要約 (5 分)
 
 > [!NOTE]
 > 資料を要約してみよう
 
-[青空文庫　 Aozora Bunko](https://www.aozora.gr.jp/)
-[生成的人工知能 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E7%9A%84%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD)
-[Generative artificial intelligence - Wikipedia](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
+- [青空文庫　 Aozora Bunko](https://www.aozora.gr.jp/)
+- [生成的人工知能 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E7%9A%84%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD)
+- [Generative artificial intelligence - Wikipedia](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
 
 > [!NOTE]
 > URL を指定して聞いてみよう
@@ -203,8 +203,8 @@ https://www.kyoto-art.ac.jp/
 > [!NOTE]
 > 資料を要約してみよう
 
-[Copilot](https://copilot.microsoft.com/)
-[LLaVA](https://llava.hliu.cc/)
+- [Copilot](https://copilot.microsoft.com/)
+- [LLaVA](https://llava.hliu.cc/)
 
 #### 深掘り (5 分)
 
@@ -271,8 +271,8 @@ https://www.kyoto-art.ac.jp/
 > [!NOTE]
 > 作品（画像）についてアドバイスしてもらおう
 
-[Copilot](https://copilot.microsoft.com/)
-[LLaVA](https://llava.hliu.cc/)
+- [Copilot](https://copilot.microsoft.com/)
+- [LLaVA](https://llava.hliu.cc/)
 
 ### ポートフォーリオサイト
 
@@ -297,7 +297,7 @@ https://www.kyoto-art.ac.jp/
 > [!NOTE]
 > 興味のある方はぜひ試してみてください
 
-[Suno](https://suno.com/)
+- [Suno](https://suno.com/)
 
 #### WEB サイトを作る (10 分)
 
@@ -386,17 +386,17 @@ https://www.kyoto-art.ac.jp/
 
 #### 3D モデル生成
 
-[DreamGaussian](https://dreamgaussian.github.io/)
+- [DreamGaussian](https://dreamgaussian.github.io/)
 
 #### 動画
 
-[Sora](https://openai.com/sora)
-[AI による動画編集の自動化 | Adobe](https://www.adobe.com/jp/products/premiere/ai-video-editing.html?clickref=1100lyr3nuoo&mv=affiliate&mv2=pz&as_camptype=&as_channel=affiliate&as_source=partnerize&as_campaign=skimlinks_phg)
+- [Sora](https://openai.com/sora)
+- [AI による動画編集の自動化 | Adobe](https://www.adobe.com/jp/products/premiere/ai-video-editing.html?clickref=1100lyr3nuoo&mv=affiliate&mv2=pz&as_camptype=&as_channel=affiliate&as_source=partnerize&as_campaign=skimlinks_phg)
 
 #### コード
 
-[GitHub Copilot · Your AI pair programmer](https://github.com/features/copilot)
-[Cursor - The AI-first Code Editor](https://cursor.sh/)
+- [GitHub Copilot · Your AI pair programmer](https://github.com/features/copilot)
+- [Cursor - The AI-first Code Editor](https://cursor.sh/)
 
 ## 参考
 
