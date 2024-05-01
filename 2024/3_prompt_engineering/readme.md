@@ -155,7 +155,9 @@ Copilot 等は、検索機能と生成 AI（LLM）を組み合わせて RAG (Ret
 
 > [!WARNING]
 > 自分の言葉で考えるトレーニングも大切です。
+>
 > 生成 AI の言葉を鵜呑みにするのは危険です。
+>
 > 生成 AI の内容をそのまま利用する行為は推奨していません。
 
 参考：
@@ -182,6 +184,8 @@ Copilot 等は、検索機能と生成 AI（LLM）を組み合わせて RAG (Ret
 
 > [!NOTE]
 > 資料を要約してみよう
+
+参考：
 
 - [青空文庫　 Aozora Bunko](https://www.aozora.gr.jp/)
 - [生成的人工知能 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E7%9A%84%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD)
@@ -210,6 +214,7 @@ https://www.kyoto-art.ac.jp/
 
 > [!NOTE]
 > 資料の内容について生成 AI と対話してみよう
+>
 > 疑問に思ったことや、知りたいことをもっと聞いてみよう
 
 ### アウトプット
@@ -245,6 +250,7 @@ https://www.kyoto-art.ac.jp/
 
 > [!WARNING]
 > 著作権等の「合法性」に注意
+>
 > 偏見等の「社会的受容性」に注意
 
 ## 2-1 限目： 「創作活動」のユースケース (17:30-)
@@ -286,8 +292,8 @@ https://www.kyoto-art.ac.jp/
 > [!NOTE]
 > 画像について説明してもらおう
 
-[Copilot](https://copilot.microsoft.com/)
-[LLaVA](https://llava.hliu.cc/)
+- [Copilot](https://copilot.microsoft.com/)
+- [LLaVA](https://llava.hliu.cc/)
 
 > [!WARNING]
 > 自分の言葉で考えることは大前提ですが。
