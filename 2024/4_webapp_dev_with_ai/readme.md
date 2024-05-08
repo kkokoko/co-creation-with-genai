@@ -86,10 +86,7 @@ AI 技術使用に関連する倫理的考慮を教育することで、未来�
      <img src="images/setup_2.png" alt="setup_2" style="zoom:30%;" />
 
    - Freeプランを選択します。
-
-     > [!Caution]
-     >
-     > Freeプランは20 Sandboxが上限になります。
+     <strong><span style="color: red;">※Freeプランは20 Sandboxが上限になります。</span></strong>
      
      <img src="images/setup_3.png" alt="setup_3" style="zoom:30%;" />
 
