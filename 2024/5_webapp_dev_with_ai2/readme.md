@@ -135,6 +135,15 @@ JavaScript どれくらい触ったことある？
 
 ## 1-2 限目： バックエンド呼び出し 〜ポケモン図鑑を作ろう〜 (16:35-)
 
+### ポケモン図鑑を作ろう (20 分)
+
+### バックエンド (10 分)
+
+[PokéAPI](https://pokeapi.co/)
+
+他にどんな API がある？
+web アプリはなぜ、フロントエンドとバックエンドで分けている？
+
 ### Web サイト・Web アプリの基礎 (15 分)
 
 #### ファイル
@@ -175,11 +184,37 @@ JavaScript どれくらい触ったことある？
 >
 > [1 冊ですべて身につく JavaScript 入門講座 | SB クリエイティブ](https://www.sbcr.jp/product/4815615758/)
 
-### バックエンド (10 分)
+### 余裕があればやってみよう
 
-[PokéAPI](https://pokeapi.co/)
+````
+下記APIを使って、京都の気温をグラフ表示する簡単なwebサイトをHTMLで作りたい
 
-### ポケモン図鑑を作ろう (20 分)
+URL:
+https://api.open-meteo.com/v1/forecast?latitude=35.0211&longitude=135.7538&hourly=temperature_2m
+
+レスポンス:
+```json
+{
+  "latitude": 52.52,
+  "longitude": 13.419,
+  "elevation": 44.812,
+  "generationtime_ms": 2.2119,
+  "utc_offset_seconds": 0,
+  "timezone": "Europe/Berlin",
+  "timezone_abbreviation": "CEST",
+  "hourly": {
+    "time": ["2022-07-01T00:00", "2022-07-01T01:00", "2022-07-01T02:00", ...],
+    "temperature_2m": [13, 12.7, 12.7, 12.5, 12.5, 12.8, 13, 12.9, 13.3, ...]
+  },
+  "hourly_units": {
+    "temperature_2m": "°C"
+  }
+}
+```
+
+````
+
+[🌦️ Docs | Open-Meteo.com](https://open-meteo.com/en/docs)
 
 ## 2-1 限目： いろんなユーザー入力 〜シューティングゲームを作ろう〜 (17:30-)
 
@@ -216,3 +251,7 @@ Web アプリでなぜ、デバイス側の機能を呼び出せるか?
 > [!Note]
 >
 > 今日の授業内容をまとめてみよう
+
+```
+
+```
