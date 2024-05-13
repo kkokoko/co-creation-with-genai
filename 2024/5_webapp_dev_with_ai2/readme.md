@@ -133,17 +133,9 @@ JavaScript どれくらい触ったことある？
 >
 > [co-creation-with-genai/2024/4_webapp_dev_with_ai/readme.md at main · Creative-Cucumbers/co-creation-with-genai](https://github.com/Creative-Cucumbers/co-creation-with-genai/blob/main/2024/4_webapp_dev_with_ai/readme.md)
 
-## 1-2 限目： HTML と CSS と JavaScript 〜動きのあるサイトを作ろう〜 (16:35-)
+## 1-2 限目： バックエンド呼び出し 〜ポケモン図鑑を作ろう〜 (16:35-)
 
 ### Web サイト・Web アプリの基礎 (15 分)
-
-#### 必要な要素
-
-1. 作りたいもの ・・・　思いつきで ok → 最小限の機能から始めよう
-2. デザインスキル　・・・　やりながらで ok → 普段使ってるサイト・アプリを観察しよう
-3. テクノロジースキル　・・・　困ってからで ok → 技術書を読もう
-
-加えて AI でチート
 
 #### ファイル
 
@@ -183,67 +175,13 @@ JavaScript どれくらい触ったことある？
 >
 > [1 冊ですべて身につく JavaScript 入門講座 | SB クリエイティブ](https://www.sbcr.jp/product/4815615758/)
 
-### css で動きをつけよう (15 分)
-
-> [!Note]
->
-> 京都芸術大学の Web サイトを見てみよう
-
-[京都芸術大学](https://www.kyoto-art.ac.jp/)
-
-![](./images/kua.png)
-
-> [!Note]
->
-> css で動きをつけてみよう
-
-> [!Note]
->
-> スマホでも見てみよう
-
-> [!Note]
->
-> Web サイト・Web アプリを動かせるデバイスにはどんなものがある？
-
-> [!Note]
->
-> パソコンやスマートフォン、タブレットなど画面サイズに応じて見た目を変更する Web デザイン手法をなんていう？
-
-[レスポンシブデザイン - ウェブ開発を学ぶ | MDN](https://developer.mozilla.org/ja/docs/Learn/CSS/CSS_layout/Responsive_Design)
-
-### 外部メディアを埋め込もう (15 分)
-
-#### Google マップを埋め込もう
-
-[Google マップ](https://www.google.co.jp/maps/?hl=ja)
-
-![](./images/map.png)
-
-#### YouTube を埋め込もう
-
-[YouTube](https://www.youtube.com/?app=desktop&hl=ja)
-
-![](./images/youtube1.png)
-
-![](./images/youtube2.png)
-
-#### 他のサービス を埋め込もう
-
-> [!Note]
->
-> X や Instagram 等を埋め込んでみよう
-
-## 2-1 限目： バックエンド呼び出し 〜ポケモン図鑑を作ろう〜 (17:30-)
-
-### バックエンド (15 分)
+### バックエンド (10 分)
 
 [PokéAPI](https://pokeapi.co/)
 
-### ポケモン図鑑を作ろう (15 分)
+### ポケモン図鑑を作ろう (20 分)
 
-### コードを見てみよう (15 分)
-
-## 2-2 限目： いろんなユーザー入力 〜シューティングゲームを作ろう〜 (18:25-)
+## 2-1 限目： いろんなユーザー入力 〜シューティングゲームを作ろう〜 (17:30-)
 
 ### センサー
 
@@ -258,6 +196,18 @@ JavaScript どれくらい触ったことある？
 > [!Note]
 >
 > スマートフォンの Web ブラウザから利用できるスマートフォンのセンサーや通信について教えて
+
+## 2-2 限目： いろんなユーザー入力 〜センサー入力をもっと試してみよう〜 (18:25-)
+
+### Web アプリでデバイスの機能を呼び出せる仕組み
+
+Web アプリでなぜ、デバイス側の機能を呼び出せるか?
+
+### 音声入力
+
+### カメラ
+
+### バイブレーション
 
 ## まとめ
 
