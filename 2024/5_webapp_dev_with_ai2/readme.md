@@ -46,6 +46,7 @@ OpenAI のニュースみた？
 > - 画像の理解度が向上
 > - 音声で会話できる
 
+参考：
 [Spring Update | OpenAI](https://openai.com/index/spring-update/)
 
 > [!Note]
@@ -65,6 +66,7 @@ Google I/O のニュースみた？
 > - マルチモーダル推し
 > - 動画生成 Veo
 
+参考：
 [Google I/O 2024](https://io.google/2024/intl/ja/)
 
 > [!Note]
@@ -386,7 +388,7 @@ webのsensor apisとweb apiとは違う？
 
 > [!Note]
 >
-> バイブレーション機能はどう使う？
+> Web アプリの HTML や JavaScript で、スマホのバイブレーションを操作する方法を教えて
 
 ## 2-2 限目： バックエンド呼び出し 〜外部 API を使った Web サービスを作ろう〜 (18:25-)
 
@@ -458,6 +460,16 @@ web アプリはなぜ、フロントエンドとバックエンドで分けて�
 - データを保存するための Web API サーバー
 
 このように役割ごとに要素を分離することで、セキュリティ、パフォーマンス、開発効率、保守性を担保します。
+
+参考：
+
+よりリッチに見せるために下記のようなフレームワーク・ライブラリを使っています。
+
+[React](https://ja.react.dev/)
+
+[Next.js by Vercel - The React Framework](https://nextjs.org/)
+
+[MUI Core: Ready-to-use React components, free forever](https://mui.com/core/)
 
 #### ファイル
 
