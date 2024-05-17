@@ -140,7 +140,7 @@ JavaScript どれくらい触ったことある？
 3. 全然
 ```
 
-### 前回の振り返り (30 分)
+### 前回の振り返り (10 分)
 
 > [!Note]
 >
@@ -157,6 +157,8 @@ JavaScript どれくらい触ったことある？
 > CodeSandbox って何？
 >
 > 必要に応じて、深掘りして聞いてみよう
+
+### 前回の振り返り (20 分)
 
 > [!Note]
 >
@@ -184,6 +186,14 @@ JavaScript どれくらい触ったことある？
 > [!Tip]
 >
 > [co-creation-with-genai/2024/4_webapp_dev_with_ai/readme.md at main · Creative-Cucumbers/co-creation-with-genai](https://github.com/Creative-Cucumbers/co-creation-with-genai/blob/main/2024/4_webapp_dev_with_ai/readme.md)
+
+### 画像から生成 (5 分)
+
+> [!Tip]
+>
+> 画像から、コードを生成してもらうことも！？
+
+![](./images/from_image.png)
 
 ## 1-2 限目： 動きのあるサイト 〜シューティングゲームを作ろう〜 (16:35-)
 
@@ -346,7 +356,7 @@ JavaScript どれくらい触ったことある？
 
 ## 2-2 限目： バックエンド呼び出し 〜外部 API を使った Web サービスを作ろう〜 (18:25-)
 
-### 無料の天気 API を呼んでみよう (10 分)
+### 天気 API を呼んでみよう (10 分)
 
 ````
 下記APIを使って、京都の気温をグラフ表示する簡単なwebサイトをHTMLで作りたい
@@ -378,9 +388,16 @@ https://api.open-meteo.com/v1/forecast?latitude=35.0211&longitude=135.7538&hourl
 
 [🌦️ Docs | Open-Meteo.com](https://open-meteo.com/en/docs)
 
-### Web サイト・Web アプリの基礎 (15 分)
+### Web サイト・Web アプリケーションの基礎 (15 分)
+
+あらためて、Web サイトや Web アプリケーションが動く仕組みについて整理してみましょう
+
+参考：
+[co-creation-with-genai/2024/4_webapp_dev_with_ai/readme.md at main · Creative-Cucumbers/co-creation-with-genai](https://github.com/Creative-Cucumbers/co-creation-with-genai/blob/main/2024/4_webapp_dev_with_ai/readme.md#web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E3%81%AF)
 
 #### API・Web API・バックエンド
+
+![](./images/backend.png)
 
 ```
 APIとWeb APIとバックエンドについて教えて
@@ -395,6 +412,17 @@ web アプリはなぜ、フロントエンドとバックエンドで分けて�
 ```
 
 #### 具体例
+
+![](./images/mfk2024.png)
+[テックルズ | Maker Faire Kyoto 2024 | Make: Japan](https://makezine.jp/event/makers-mfk2024/m0061/)
+
+上記プロジェクトの構成は以下の 3 要素から成り立っています。
+
+- Web ブラウザで実行するための HTML、CSS、JavaScript を配信する Web サーバー
+- 生成 AI の機能を呼び出すための Web API サーバー（外部サービス）
+- データを保存するための Web API サーバー
+
+このように役割ごとに要素を分離することで、セキュリティ、パフォーマンス、開発効率、保守性を担保します。
 
 #### ファイル
 
@@ -436,6 +464,10 @@ web アプリはなぜ、フロントエンドとバックエンドで分けて�
 
 ### ポケモンずかんを作ろう (10 分)
 
+> [!Tip]
+>
+> ポケモンのデータを取得できる PokeAPI を使ってポケモンずかんを作ってみよう
+
 [トップページ｜ポケモンずかん](https://zukan.pokemon.co.jp/)
 https://www.pokemon.co.jp/rules/
 
@@ -444,6 +476,9 @@ https://www.pokemon.co.jp/rules/
 ```
 PokeAPIを使って、HTMLとCSSとJavaScriptでポケモンずかんを作る方法を教えて
 ```
+
+参考：
+[ご利用について｜ポケットモンスターオフィシャルサイト](https://www.pokemon.co.jp/rules/)
 
 ## まとめ
 
