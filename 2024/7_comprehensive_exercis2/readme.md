@@ -109,6 +109,8 @@
 
 以下のリンクの内容を記載ください。
 
+[co-creation-with-genai/2024/7_comprehensive_exercis2/NAME_GENAI_REPORT2.md at main · Creative-Cucumbers/co-creation-with-genai](https://github.com/Creative-Cucumbers/co-creation-with-genai/blob/main/2024/7_comprehensive_exercis2/NAME_GENAI_REPORT2.md)
+
 #### 提出方法
 
 Google Classroom にて提出ください。
